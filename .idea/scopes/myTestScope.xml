@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="myTestScope" pattern="file:src/Main.java" />
+</component>
